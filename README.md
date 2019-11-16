@@ -1,5 +1,8 @@
 # Data Scientist Nanodegree Program
-## Capstone Project - Predicting company failures in France using publicly available information in commercial registers
+
+## Capstone Project
+
+## Title: predicting company failures in France using publicly available information in commercial registers
 
 ### Project description
 
